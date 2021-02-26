@@ -6,7 +6,7 @@ driver.get("https://web.whatsapp.com/")
 
 name = input("Enter The Group or User name: ")
 message = input("Enter your message: ")
-count = int(input("Enter the times of message: "))
+count = int(input("Enter the Count: "))
 
 scode = input("Enter anything after scan code:")
 
